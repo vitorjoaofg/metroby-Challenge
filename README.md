@@ -2,7 +2,7 @@
 
 ## ☕ Running
 
-I've already created a main call to show all results, justo do it:
+I've already created a main call to show all results:
 
 ```
 python main.py
